@@ -1,0 +1,3 @@
+﻿CREATE FUNCTION Losuj ()
+	RETURNS uniqueidentifier AS
+	BEGIN RETURN (SELECT ID FROM vLosuj) END
