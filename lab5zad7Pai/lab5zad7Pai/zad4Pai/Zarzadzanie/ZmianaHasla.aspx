@@ -1,0 +1,6 @@
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/SzablonStrony.Master" AutoEventWireup="true" CodeBehind="ZmianaHasla.aspx.cs" Inherits="zad4Pai.Zarzadzanie.ZmianaHasla" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="head" runat="server">
+</asp:Content>
+<asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
+    <asp:ChangePassword ID="ChangePassword1" runat="server" CancelButtonText="Anuluj" ChangePasswordButtonText="Zmień hasło" ChangePasswordFailureText="Hasło jest nieprawidłowe.Minimalna długość: {0}.Znaki specjalne: {1}." ChangePasswordTitleText="Zmień swoje hasło" ConfirmNewPasswordLabelText="Potwierdz hasło:" ConfirmPasswordCompareErrorMessage="Wpisane hasła muszą być takie same." ConfirmPasswordRequiredErrorMessage="Pole potwierdz haslo jest wymagane" ContinueButtonText="Kontynuuj" NewPasswordLabelText="Nowe hasło:" NewPasswordRegularExpressionErrorMessage="Wprowadz inne hasło" NewPasswordRequiredErrorMessage="Nowe haslo jest wymagane" PasswordLabelText="Hasło:" PasswordRequiredErrorMessage="Haslo jest wymagane" SuccessText="Hasło zostało zmienione" SuccessTitleText="Sukces" UserNameLabelText="Uzytkownik:" UserNameRequiredErrorMessage="Nazwsa użytkownika jest wymagana."></asp:ChangePassword>
+</asp:Content>

@@ -1,0 +1,1 @@
+﻿Select NEWID() as ID

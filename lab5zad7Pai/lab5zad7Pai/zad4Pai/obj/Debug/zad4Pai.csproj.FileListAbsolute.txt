@@ -1,0 +1,383 @@
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\ApplicationInsights.config
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\csc.exe
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\vbc.exe
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\zad4Pai.dll.config
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\zad4Pai.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\zad4Pai.pdb
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\obj\Debug\zad4Pai.dll
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+c:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad4Pai\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\ApplicationInsights.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\csc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\zad5Pai - lab3\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab4zad6Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\EntityFramework.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\EntityFramework.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\EntityFramework.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Owin.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\EntityFramework.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.xml
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Documents\Visual Studio 2015\Projects\membershipProvider\lab5zad7Pai\zad4Pai\bin\AjaxControlToolkit.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\AjaxControlToolkit.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\EntityFramework.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Owin.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\EntityFramework.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.xml
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\Jaa\Desktop\pai lab final\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\AjaxControlToolkit.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\EntityFramework.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Owin.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\EntityFramework.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.xml
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csprojResolveAssemblyReference.cache
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\jodelka\Desktop\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.pdb
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\ApplicationInsights.config
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\csc.exe
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\vbc.exe
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll.config
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\zad4Pai.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\zad4Pai.pdb
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\AjaxControlToolkit.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\EntityFramework.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Owin.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\EntityFramework.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\EntityFramework.SqlServer.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.Web.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.ApplicationInsights.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\bin\Newtonsoft.Json.xml
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csprojAssemblyReference.cache
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.csproj.CopyComplete
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.dll
+C:\Users\frank\Downloads\lab5zad7Pai\lab5zad7Pai\zad4Pai\obj\Debug\zad4Pai.pdb

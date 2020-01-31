@@ -1,0 +1,78 @@
+﻿body {
+    font-family: Verdana;
+    font-size: 8pt;
+    color:#000033;
+    background-color:white;
+    margin:0;
+
+}
+#PierwszyObszarBoczny {
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+#DrugiObszarBoczny {
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#Menu{
+    background-color:#55BBFF;
+    font-size:7.5pt;
+}
+
+#ObszarLogowania{
+    text-align:right;
+    background-color:#C3DBEA;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+}
+#ObszarRoboczy{
+    background-color:#EEE;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:0;
+    margin-top:0;
+    margin-left:200px;
+    margin-right:200px;
+}
+.ElementMenuNadrzednego{
+    color:#000033;
+    font-weight:bold;
+    padding:3px 10px;
+}
+
+.ElementMenuRozwijanego{
+    background:#F5F5F5;
+    color:#000033;
+    padding:3px 10px;
+}
+.ZaznaczonyElementMenu{
+    background:#000033;
+    color:white;
+}
+
+.LinkObszaruLogowania{
+    color:#000033;
+}
+
+.ad{
+    max-width:100px;
+    max-height:70px;
+    margin:10px;
+    vertical-align:middle;
+}
+
+.watermarked{
+    height:20px;
+    width:150px;
+    padding:2px 0 0 2px;
+    border:1px solid #BEBEBE;
+    background-color:#F0F8FF;
+    color:gray;
+}

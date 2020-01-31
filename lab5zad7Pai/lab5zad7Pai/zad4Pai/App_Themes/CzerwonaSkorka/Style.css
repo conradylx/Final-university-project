@@ -1,0 +1,104 @@
+﻿body {
+    font-family: Verdana;
+    font-size: 8pt;
+    color:#ff0020;
+    background-color:white;
+    margin:0;
+
+}
+#PierwszyObszarBoczny {
+    float: left;
+    width: 200px;
+    height: 300px;
+}
+#DrugiObszarBoczny {
+    float: right;
+    width: 200px;
+    height: 300px;
+}
+
+#Menu{
+    background-color:#ffc5cc;
+    font-size:7.5pt;
+}
+
+#ObszarLogowania{
+    text-align:right;
+    background-color:#ffc5cc;
+    padding-top:5px;
+    padding-bottom:5px;
+    padding-left:10px;
+    padding-right:10px;
+}
+#ObszarRoboczy{
+    background-color:#EEE;
+    padding-top:50px;
+    padding-bottom:50px;
+    padding-left:20px;
+    padding-right:20px;
+    margin-bottom:0;
+    margin-top:0;
+    margin-left:200px;
+    margin-right:200px;
+}
+.ElementMenuNadrzednego{
+    color:#ff0020;
+    font-weight:bold;
+    padding:3px 10px;
+}
+
+.ElementMenuRozwijanego{
+    background:#F5F5F5;
+    color:#ff0020;
+    padding:3px 10px;
+}
+.ZaznaczonyElementMenu{
+    background:#ff0020;
+    color:white;
+}
+
+.OknoProduktow{
+    background-color:#C3DBEA;
+    border-style:solid;
+    border-color:#55BBFF;
+    margin:5px auto 0px auto;
+    width:120px;
+}
+.OknoProduktow1{
+    background-color:#C3DBEA;
+    border-style:solid;
+    border-color:#55BBFF;
+    margin:5px auto 0px auto;
+    width:120px;
+    display : inline-block;
+}
+
+.LinkObszaruLogowania{
+    color:#000033;
+}
+
+.ad{
+    max-width:150px;
+    margin:10px;
+    vertical-align:middle;
+}
+
+.watermarked{
+    height:20px;
+    width:150px;
+    padding:2px 0 0 2px;
+    border:1px solid #BEBEBE;
+    background-color:#F0F8FF;
+    color:gray;
+}
+
+.calendarEx{
+    background-color:white;
+}
+
+.ajax__calendar_container
+        {
+           background-color:white;        
+        }
+
+ 

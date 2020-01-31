@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<Advertisements>
+  <Ad>
+    <ImageUrl>https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/0020/1075/brand.gif?itok=3zVLkhLj</ImageUrl>
+    <NavigateUrl>http://www.asp.net</NavigateUrl>
+    <AlternateText>Strona główna ASP.NET </AlternateText>
+  </Ad>
+  <Ad>
+    <ImageUrl>https://cdn.arstechnica.net/wp-content/uploads/2009/07/codeplex_logo_small.png</ImageUrl>
+    <NavigateUrl>http://www.codeplex.com</NavigateUrl>
+    <AlternateText>Projekty OpenSource - CodePlex</AlternateText>
+  </Ad>
+</Advertisements>
+

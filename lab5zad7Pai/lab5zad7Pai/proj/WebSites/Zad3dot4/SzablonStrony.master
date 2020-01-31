@@ -1,0 +1,62 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="SzablonStrony.master.cs" Inherits="SzablonStrony" %>
+
+<%@ Register src="Kontrolki/Kategorie.ascx" tagname="Kategorie" tagprefix="uc1" %>
+
+<%@ Register src="Kontrolki/NoweProdukty.ascx" tagname="NoweProdukty" tagprefix="uc2" %>
+
+<%@ Register src="Kontrolki/WybraneProdukty.ascx" tagname="WybraneProdukty" tagprefix="uc3" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Adventure Works</title>
+    <link href="App_Themes/NiebieskaSkorka/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder id="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   
+    <form id="form1" runat="server">
+    <div>
+      <div id="Strona">
+          <div id="Naglowek">
+              <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/AWlogo.jpg"/>
+              <div id="Menu">
+                  <asp:SiteMapDataSource ID="MapaSerwisu" runat="server" ShowStartingNode="false" />
+                  <asp:Menu ID="MenuGlowne" Orientation="Horizontal" runat="server" DataSourceID="MapaSerwisu" DynamicHoverStyle-CssClass="ZaznaczonyElementMenu" DynamicMenuItemStyle-CssClass="ElementMenuRozwijanego" StaticHoverStyle-CssClass="ElementMenuNadrzednego"></asp:Menu>
+              </div>
+              <div id="ObszarLogowania">
+                  <asp:LoginView ID="LoginView1" runat="server">
+                      <AnonymousTemplate>
+                       <a href="Zarejestruj.aspx">Zarejestruj się</a>
+                    </AnonymousTemplate>
+                      <LoggedInTemplate>
+                          Witaj <asp:LoginName ID="LoginName1" runat="server" />
+                      </LoggedInTemplate>
+                      | <asp:LoginStatus runat="server" CssClass="LinkObszaruLogowania" LoginText="Zaloguj" LoginAction="Redirect" LogoutPageUrl="~/Default.apx" LogoutText="Wyloguj"></asp:LoginStatus>
+
+                  </asp:LoginView>
+              </div>
+          </div>
+          <div id="Tresc">
+              <div id="PierwszyObszarBoczny">
+                  <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+                      <uc3:WybraneProdukty ID="WybraneProdukty1" runat="server" />
+
+                  </asp:ContentPlaceHolder>
+              </div>
+              <div id="DrugiObszarBoczny"><uc2:NoweProdukty ID="NoweProdukty1" runat="server" />
+              </div>
+              <div id="ObszarRoboczy">
+                  <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+
+                  </asp:ContentPlaceHolder>
+              </div>
+          </div>
+      </div>
+    </div>
+    </form>
+</body>
+</html>

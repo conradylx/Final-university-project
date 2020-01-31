@@ -1,0 +1,118 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="SzablonStrony.master.cs" Inherits="zad4Pai.SzablonStrony" %>
+
+<%@ Register Src="Kontrolki/Kategorie.ascx" TagName="Kategorie" TagPrefix="uc1" %>
+
+<%@ Register Src="Kontrolki/NoweProdukty.ascx" TagName="NoweProdukty" TagPrefix="uc2" %>
+<%@ Register Src="Kontrolki/WybraneProdukty.ascx" TagName="WybraneProdukty" TagPrefix="uc3" %>
+<%@ Register Src="~/Licznik.ascx" TagPrefix="uc1" TagName="Licznik" %>
+<%@ Register Src="~/Kontrolki/Reklama.ascx" TagPrefix="uc4" TagName="Reklama" %>
+
+
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Adventure Works</title>
+    <link href="App_Themes/NiebieskaSkorka/Style.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <div id="strona">
+
+        <form runat="server">
+            <asp:ScriptManager ID="ScriptManager1" EnableScriptGlobalization="true" runat="server"></asp:ScriptManager>
+            <asp:WebPartManager ID="MenadzerWebPartow" runat="server"/>
+            <div id="Naglowek">
+                <asp:Image ID="Image1" runat="server" ImageUrl="~/Images/AWlogo.jpg" />
+                <br />
+                <div id="Menu">
+                    <asp:SiteMapDataSource ID="MapaSerwisu" ShowStartingNode="false" runat="server" />
+                    <asp:Menu ID="MenuGlowne" DataSourceID="MapaSerwisu" Orientation="Horizontal" runat="server" DynamicHoverStyle-CssClass="ZaznaczonyElementMenu" DynamicMenuItemStyle-CssClass="ElementMenuRozwijanego" StaticHoverStyle-CssClass="ZaznaczonyElementMenu" StaticMenuItemStyle-CssClass="ElementMenuNadrzednego" RenderingMode="Table"></asp:Menu>
+                </div>
+                <div id="ObszarLogowania">
+                    <asp:LoginView ID="LoginView1" runat="server">
+                        <AnonymousTemplate>
+                            <tr>
+                                <td colspan="2">
+                                    <a href="Zarejestruj.aspx">Zarejestruj</a>
+                                </td>
+                            </tr>
+                        </AnonymousTemplate>
+                        <LoggedInTemplate>
+                            <tr>
+                                <td>
+                                    <asp:LoginName ID="LoginName1" runat="Server"
+                                        FormatString="Witaj {0}"></asp:LoginName>
+                                </td>
+                        </LoggedInTemplate>
+                    </asp:LoginView>
+                    |
+                <asp:LoginStatus ID="LoginStatus1" runat="server" CssClass="LinkObszaruLogowania" LoginText="Zaloguj" LogoutAction="Redirect" LogoutPageUrl="~/Default.aspx" LogoutText="Wyloguj" OnLoggedOut="LoginStatus1_LoggedOut" />
+                    <%-- <a href="Zarejestruj.aspx" onclick="zarejestrujClick">Zarejestruj</a> --%>
+                </div>
+            </div>
+            <div id="Tresc">
+                <div id="PierwszyObszarBoczny">
+                    <asp:WebPartZone ID="PierwszyObszarWebPartow" runat="server" BorderColor="#CCCCCC" Font-Names="Verdana" Padding="6" Width="100px">
+                        <ZoneTemplate>
+
+                            <uc1:Kategorie ID="Kategorie1" runat="server" />
+                            <uc3:WybraneProdukty ID="WybraneProdukty1" runat="server" />
+                        </ZoneTemplate>
+                        <MenuLabelHoverStyle ForeColor="#E2DED6" />
+                        <MenuLabelStyle ForeColor="White" />
+                        <MenuPopupStyle BackColor="#5D7B9D" BorderColor="#CCCCCC" BorderWidth="1px" Font-Names="Verdana" Font-Size="0.6em" />
+                        <MenuVerbHoverStyle BackColor="#F7F6F3" BorderColor="#CCCCCC" BorderStyle="Solid" BorderWidth="1px" ForeColor="#333333" />
+                        <MenuVerbStyle BorderColor="#5D7B9D" BorderStyle="Solid" BorderWidth="1px" ForeColor="White" />
+                        <TitleBarVerbStyle Font-Size="0.6em" Font-Underline="False" ForeColor="White" />
+                        <EmptyZoneTextStyle Font-Size="0.8em" />
+                        <HeaderStyle Font-Size="0.7em" ForeColor="#CCCCCC" HorizontalAlign="Center" />
+                        <PartChromeStyle BackColor="#F7F6F3" BorderColor="#E2DED6" Font-Names="Verdana" ForeColor="White" />
+                        <PartStyle Font-Size="0.8em" ForeColor="#333333" />
+                        <PartTitleStyle BackColor="#5D7B9D" Font-Bold="True" Font-Size="0.8em" ForeColor="White" />
+                    </asp:WebPartZone>
+                </div>
+                <div id="DrugiObszarBoczny">
+                    <asp:WebPartZone ID="DrugiObszarWebPartow" runat="server" BorderColor="#CCCCCC" Font-Names="Verdana" Padding="6" Width="100px">
+                        <ZoneTemplate>
+                            <uc2:NoweProdukty ID="NoweProdukty1" runat="server" />
+                            <uc1:Licznik runat="server" ID="Licznik" />
+                            <uc4:Reklama runat="server" ID="Reklama" />
+                        </ZoneTemplate>
+                        <MenuLabelHoverStyle ForeColor="#E2DED6" />
+                        <MenuLabelStyle ForeColor="White" />
+                        <MenuPopupStyle BackColor="#5D7B9D" BorderColor="#CCCCCC" BorderWidth="1px" Font-Names="Verdana" Font-Size="0.6em" />
+                        <MenuVerbHoverStyle BackColor="#F7F6F3" BorderColor="#CCCCCC" BorderStyle="Solid" BorderWidth="1px" ForeColor="#333333" />
+                        <MenuVerbStyle BorderColor="#5D7B9D" BorderStyle="Solid" BorderWidth="1px" ForeColor="White" />
+                        <TitleBarVerbStyle Font-Size="0.6em" Font-Underline="False" ForeColor="White" />
+                        <EmptyZoneTextStyle Font-Size="0.8em" />
+                        <HeaderStyle Font-Size="0.7em" ForeColor="#CCCCCC" HorizontalAlign="Center" />
+                        <PartChromeStyle BackColor="#F7F6F3" BorderColor="#E2DED6" Font-Names="Verdana" ForeColor="White" />
+                        <PartStyle Font-Size="0.8em" ForeColor="#333333" />
+                        <PartTitleStyle BackColor="#5D7B9D" Font-Bold="True" Font-Size="0.8em" ForeColor="White" />
+                    </asp:WebPartZone>
+                    
+                </div>
+                <div id="ObszarRoboczy">
+
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+
+            </div>
+        </form>
+    </div>
+    <script type="text/javascript">
+  function dateSelectionChanged(sender, args){
+    selectedDate = sender.get_selectedDate();
+    /* replace this next line with your JS code to get the Sunday date */
+    sundayDate = getSundayDateUsingYourAlgorithm(selectedDate); 
+    /* this sets the date on both the calendar and textbox */
+    sender.set_SelectedDate(sundayDate); 
+ }
+</script>
+
+</body>
+</html>

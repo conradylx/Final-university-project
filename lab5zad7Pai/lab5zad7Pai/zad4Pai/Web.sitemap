@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<siteMap xmlns="http://schemas.microsoft.com/AspNet/SiteMap-File-1.0" >
+  <siteMapNode url="Default.aspx" title="Strona glowna"  description="Przenies do strony glownej">
+    <siteMapNode title="Produkty"  description="Zapoznaj sie z oferta" roles="*" >
+      <siteMapNode url="Produkty.aspx" title="Przegladaj" description="Przejrzyj dostepne filmy"/>
+      <siteMapNode url="Szukaj.aspx" title="Szukaj" description="Wyszukaj po nazwie"/>
+    </siteMapNode>
+    <siteMapNode title="Koszyk" description="Zarzadzaj koszykiem" roles="*">
+      <siteMapNode url="Zakupy.aspx" title="Przeglądaj" description="Przejrzyj zawartosc koszyka"/>
+      <siteMapNode url="OproznijKoszyk.aspx" title="Opróżnij koszyk" description="Opróżnij zawartosc koszyka"/>
+    </siteMapNode>
+    <siteMapNode title="Zarządznie"  description="Zarządzaj" roles="User, Administrator" >
+      <siteMapNode url="Zarzadzanie/ZmianaHasla.aspx" title="Zmiana hasła" description="Zmień hasło"/>
+      <siteMapNode url="Zarzadzanie/WP.aspx" title="Zarządznie układem strony" description="Zarzadzaj kontrolkami webpart"/>
+    </siteMapNode>
+    <siteMapNode title="Ankiety"  description="Wypelnij ankiete na stronie" roles="*" >
+        <siteMapNode url="Ankieta.aspx?view=nowy" title="Szukaj Roweru" description="Okresl preferowane produkty"/>
+      <siteMapNode url="Ankieta.aspx?view=wycieczki" title="Szukaj towarzystwa do wycieczki" description="Opowiedz nam o sobie"/>
+
+    </siteMapNode>
+    <siteMapNode title="Informacje" description="Dowiedz sie wiecej o nas" roles="*">
+      <siteMapNode url="Informacje.aspx" title="O nas" description="Dowiedz sie wiecej o nas"/>
+      <siteMapNode url="Uwagi.aspx" title="Zglos uwage" description="Zglos uwagi dotyczace dzialania serwisu"/>
+      
+    </siteMapNode>
+    </siteMapNode>
+</siteMap>
