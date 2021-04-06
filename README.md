@@ -1,4 +1,4 @@
-# Final university project
+# Final subject university project
  
 ## Table of contents
 * [General info](#general-info)
